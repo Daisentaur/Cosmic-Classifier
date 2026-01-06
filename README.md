@@ -32,7 +32,7 @@ Code Explanation
     
 *   **Handling Missing/Noisy Data:** Rows with large negative values (-999999) or NaN values are removed to clean the dataset.
     
-*   **Separate Features and Target:** The target column (Prediction) is separated from the features.
+*   **Separate Features and Target:** The target column (Prediction) is separated from the features. 
     
 *   **Identify Categorical Columns:** Columns containing the word "Category" or with an object data type are identified as categorical.
     
